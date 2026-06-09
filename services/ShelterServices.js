@@ -1,4 +1,4 @@
-const conDB = require("../connectToDB");
+const conDB = require("../dataBase/ConnectToDB");
 
 async function getAllShelters() {
     const [rows] = await conDB.promise().query(

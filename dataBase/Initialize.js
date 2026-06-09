@@ -1,4 +1,4 @@
-const conDB = require("./connectToDB");
+const conDB = require("./ConnectToDB");
 const { getCoordinates } = require("./services/geocodingService");
 const sheltersAddresses = [
   "דדו 12 אופקים",

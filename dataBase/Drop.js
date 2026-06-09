@@ -1,6 +1,6 @@
 var mysql = require("mysql2");
 var path = require("path");
-const conDB = require("./connectToDB");
+const conDB = require("./ConnectToDB");
 
 function cleanDB() {
   conDB.query(

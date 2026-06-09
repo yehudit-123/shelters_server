@@ -1,4 +1,4 @@
-const conDB = require("./connectToDB");
+const conDB = require("./ConnectToDB");
 const fs = require("fs");
 
 function createTable(query, tableName) {
