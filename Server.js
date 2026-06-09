@@ -5,7 +5,7 @@ app.use(cors());
 app.use(express.json());
 
 app.use("/users", require("./routs/UserRouts"));
-app.use("/shelters", require("./routs/ShelterRoutes"));
+app.use("/shelters", require("./routs/ShelterRoute"));
 // app.use("/reviews", require("./API/reviewsRoutes"));
 // app.use("/likes", require("./API/likesRoutes"));
 
