@@ -1,4 +1,10 @@
+// const axios = require("axios");
 const axios = require("axios");
+const https = require("https");
+
+const agent = new https.Agent({
+  rejectUnauthorized: false
+});
 
 async function getCoordinates(address) {
     const apiKey = process.env.GOOGLE_MAPS_API_KEY;
@@ -9,7 +15,9 @@ async function getCoordinates(address) {
             params: {
                 address,
                 key: apiKey
-            }
+            },
+            httpsAgent: agent   // 👈 זה מה שהיה חסר
+
         }
     );
 
