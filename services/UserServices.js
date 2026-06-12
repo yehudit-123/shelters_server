@@ -32,7 +32,6 @@ async function login(userName, passwordHash) {
 
 // GET USER BY ID
 async function getUserById(userId) {
-
     const [rows] = await conDB.promise().query(
         `
         SELECT *
@@ -46,54 +45,30 @@ async function getUserById(userId) {
 }
 
 // ADD USER
-async function addUser(
-    userName,
-    email,
-    phone,
-    userRole,
-    passwordHash
-) {
-
+async function addUser(userName, email, phone, userRole, passwordHash) {
     const [result] = await conDB.promise().query(
         `
         INSERT INTO users
         (userName, email, phone, userRole)
         VALUES (?, ?, ?, ?)
         `,
-        [
-            userName,
-            email,
-            phone,
-            userRole || "user"
-        ]
+        [userName, email, phone, userRole || "user"]
     );
-
     const userId = result.insertId;
-
+    console.log(`${userId} user id created`);
     await conDB.promise().query(
         `
         INSERT INTO passwords
         (userId, passwordHash)
         VALUES (?, ?)
         `,
-        [
-            userId,
-            passwordHash
-        ]
+        [userId, passwordHash]
     );
-
     return userId;
 }
 
 // UPDATE USER
-async function updateUser(
-    userId,
-    userName,
-    email,
-    phone,
-    userRole
-) {
-
+async function updateUser(userId, userName, email, phone, password, userRole) {
     await conDB.promise().query(
         `
         UPDATE users
@@ -104,14 +79,19 @@ async function updateUser(
             userRole = ?
         WHERE userId = ?
         `,
-        [
-            userName,
-            email,
-            phone,
-            userRole,
-            userId
-        ]
+        [userName, email, phone, userRole, userId]
     );
+    if (password) {
+        await conDB.promise().query(
+            `
+        UPDATE passwords
+        SET
+            passwordHash=?
+            WHERE userId = ?
+        `,
+            [userId, passwordHash]
+        );
+    }
 }
 
 // DELETE USER

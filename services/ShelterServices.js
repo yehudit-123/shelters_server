@@ -7,6 +7,32 @@ async function getAllShelters() {
 
     return rows;
 }
+async function getApprovedShelters() {
+    const [rows] = await conDB.promise().query(
+        "SELECT * FROM shelters WHERE status = ?",
+        ["approved"]
+    );
+
+    return rows;
+}
+
+// כל המיגוניות הממתינות לאישור
+async function getPendingShelters() {
+    const [rows] = await conDB.promise().query(
+        "SELECT * FROM shelters WHERE status = ?",
+        ["pending"]
+    );
+
+    return rows;
+}
+async function getSheltersByUserId(userId) {
+    const [rows] = await conDB.promise().query(
+        "SELECT * FROM shelters WHERE createdByUserId = ?",
+        [userId]
+    );
+
+    return rows;
+}
 async function addShelter(data) {
 
     const query = `
@@ -35,7 +61,42 @@ async function addShelter(data) {
 
     return await conDB.promise().query(query, values);
 }
+async function approveShelter(id) {
+    await conDB.promise().query(
+        `
+        UPDATE shelters
+        SET status = "approved"
+        WHERE shelterId = ?
+        `,
+        [id]
+    );
+}
+async function rejectShelter(id) {
+    await conDB.promise().query(
+        `
+        UPDATE shelters
+        SET status = "reject"
+        WHERE shelterId = ?
+        `,
+        [id]
+    );
+}
+async function deleteShelter(shelterId) {
+    await conDB.promise().query(
+        `
+        DELETE FROM shelters
+        WHERE shelterId = ?
+        `,
+        [shelterId]
+    );
+}
 module.exports = {
     getAllShelters,
-    addShelter
+    approveShelter,
+    rejectShelter,
+    getSheltersByUserId,
+    addShelter,
+    deleteShelter,
+    getApprovedShelters,
+    getPendingShelters
 };

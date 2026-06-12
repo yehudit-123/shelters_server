@@ -1,0 +1,3822 @@
+[
+  {
+    "shelterName": "906",
+    "address": "שדרות גורי ישראל 31 ",
+    "latitude": "32.0422646",
+    "longitude": "34.77921563",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "31",
+    "status": "approved"
+  },
+  {
+    "shelterName": "831",
+    "address": "דימונה 21 ",
+    "latitude": "32.0422647",
+    "longitude": "34.77921564",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "21",
+    "status": "reject"
+  },
+  {
+    "shelterName": "304",
+    "address": "מנדלשטם 9 ",
+    "latitude": "32.0422648",
+    "longitude": "34.77921565",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מגדלי אביב",
+    "address": "מנחם בגין 46 ",
+    "latitude": "32.0422649",
+    "longitude": "34.77921566",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "46",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר בלפור",
+    "address": "בלפור 12 ",
+    "latitude": "32.0422650",
+    "longitude": "34.77921567",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר ניצנים ",
+    "address": "אנדרסן 22 ",
+    "latitude": "32.0422651",
+    "longitude": "34.77921568",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "22",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר רש\"י בנות",
+    "address": "שז\"ר זלמן 39 ",
+    "latitude": "32.0422652",
+    "longitude": "34.77921569",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "39",
+    "status": "reject"
+  },
+  {
+    "shelterName": "203",
+    "address": "ברודי חיים 10 ",
+    "latitude": "32.0422653",
+    "longitude": "34.77921570",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "10",
+    "status": "pending"
+  },
+  {
+    "shelterName": "125",
+    "address": "מיזאן 19 ",
+    "latitude": "32.0422654",
+    "longitude": "34.77921571",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "302",
+    "address": "מוצקין 13 ",
+    "latitude": "32.0422655",
+    "longitude": "34.77921572",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "13",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר חשמונאים",
+    "address": "פיקוס 19 ",
+    "latitude": "32.0422656",
+    "longitude": "34.77921573",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1038",
+    "address": "אוהב ישראל 12 ",
+    "latitude": "32.0422657",
+    "longitude": "34.77921574",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "12",
+    "status": "reject"
+  },
+  {
+    "shelterName": "108",
+    "address": "אהוד 18 ",
+    "latitude": "32.0422658",
+    "longitude": "34.77921575",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "18",
+    "status": "pending"
+  },
+  {
+    "shelterName": "הבימה",
+    "address": "הוברמן (כיכר הבימה) 4 ",
+    "latitude": "32.0422659",
+    "longitude": "34.77921576",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "3",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "גינת רות",
+    "address": "אסתר המלכה 12 ",
+    "latitude": "32.0422660",
+    "longitude": "34.77921577",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "523",
+    "address": "שדרות ההשכלה 38 ",
+    "latitude": "32.0422661",
+    "longitude": "34.77921578",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "38",
+    "status": "approved"
+  },
+  {
+    "shelterName": "209",
+    "address": "רדינג 4 ",
+    "latitude": "32.0422662",
+    "longitude": "34.77921579",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "4",
+    "status": "reject"
+  },
+  {
+    "shelterName": "518",
+    "address": "שביל החצב 8 ",
+    "latitude": "32.0422663",
+    "longitude": "34.77921580",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "pending"
+  },
+  {
+    "shelterName": "קצה השדרה",
+    "address": "רוטשילד 1 ",
+    "latitude": "32.0422664",
+    "longitude": "34.77921581",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "805",
+    "address": "שדרות החי\"ל 18 ",
+    "latitude": "32.0422665",
+    "longitude": "34.77921582",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "18",
+    "status": "approved"
+  },
+  {
+    "shelterName": "פנינת הסיטי",
+    "address": "השרון 14 ",
+    "latitude": "32.0422666",
+    "longitude": "34.77921583",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "14",
+    "status": "approved"
+  },
+  {
+    "shelterName": "909",
+    "address": "שיפר 8 ",
+    "latitude": "32.0422667",
+    "longitude": "34.77921584",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "reject"
+  },
+  {
+    "shelterName": "633",
+    "address": "פינס 22 ",
+    "latitude": "32.0422668",
+    "longitude": "34.77921585",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "22",
+    "status": "pending"
+  },
+  {
+    "shelterName": "530",
+    "address": "דובנוב 8 ",
+    "latitude": "32.0422669",
+    "longitude": "34.77921586",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מלון מגדל המלך דוד",
+    "address": "הרברט סמואל 94 ",
+    "latitude": "32.0422670",
+    "longitude": "34.77921587",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "3",
+    "likesCount": "94",
+    "status": "approved"
+  },
+  {
+    "shelterName": "844",
+    "address": "קלמר משה 6 ",
+    "latitude": "32.0422671",
+    "longitude": "34.77921588",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר מודיעים",
+    "address": "אלון יגאל 31 ",
+    "latitude": "32.0422672",
+    "longitude": "34.77921589",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "31",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר גוונים- הירדן",
+    "address": "מושיע 21 ",
+    "latitude": "32.0422673",
+    "longitude": "34.77921590",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "21",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר ארנון",
+    "address": "דוד ילין 11 ",
+    "latitude": "32.0422674",
+    "longitude": "34.77921591",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "11",
+    "status": "approved"
+  },
+  {
+    "shelterName": "524",
+    "address": "שדרות ההשכלה 14 ",
+    "latitude": "32.0422675",
+    "longitude": "34.77921592",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "14",
+    "status": "approved"
+  },
+  {
+    "shelterName": "923",
+    "address": "פלקירה 5 ",
+    "latitude": "32.0422676",
+    "longitude": "34.77921593",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "801",
+    "address": "רחבת הגייסות 1 ",
+    "latitude": "32.0422677",
+    "longitude": "34.77921594",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "1",
+    "status": "reject"
+  },
+  {
+    "shelterName": "924",
+    "address": "כרם חמד 6 ",
+    "latitude": "32.0422678",
+    "longitude": "34.77921595",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר  \"סמינר בית יעקב\"",
+    "address": "יצחק אלחנן 4 ",
+    "latitude": "32.0422679",
+    "longitude": "34.77921596",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1029",
+    "address": "ישראל מריז'ין 9 ",
+    "latitude": "32.0422680",
+    "longitude": "34.77921597",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "טופ דן",
+    "address": "רוזן פנחס 72 ",
+    "latitude": "32.0422681",
+    "longitude": "34.77921598",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "72",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר דיזנגוף",
+    "address": "קפלנסקי 2 ",
+    "latitude": "32.0422682",
+    "longitude": "34.77921599",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "2",
+    "status": "reject"
+  },
+  {
+    "shelterName": "116",
+    "address": "צה\"ל 75 ",
+    "latitude": "32.0422683",
+    "longitude": "34.77921600",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "75",
+    "status": "pending"
+  },
+  {
+    "shelterName": "925",
+    "address": "דשבסקי 7 ",
+    "latitude": "32.0422684",
+    "longitude": "34.77921601",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "7",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית הרכב מגדל שלום",
+    "address": "אחד העם 9 ",
+    "latitude": "32.0422685",
+    "longitude": "34.77921602",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל פסגות",
+    "address": "פריש דניאל 3 ",
+    "latitude": "32.0422686",
+    "longitude": "34.77921603",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "820",
+    "address": "תמוז 8 ",
+    "latitude": "32.0422687",
+    "longitude": "34.77921604",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "reject"
+  },
+  {
+    "shelterName": "311",
+    "address": "פקיעין 18 ",
+    "latitude": "32.0422688",
+    "longitude": "34.77921605",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "18",
+    "status": "pending"
+  },
+  {
+    "shelterName": "ביה\"ס \"לב יפו אלזהראא\"",
+    "address": "פסטלוצי 31 ",
+    "latitude": "32.0422689",
+    "longitude": "34.77921606",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "31",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר יחד",
+    "address": "לח\"י 66 ",
+    "latitude": "32.0422690",
+    "longitude": "34.77921607",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "66",
+    "status": "approved"
+  },
+  {
+    "shelterName": "אחד העם 54",
+    "address": "אחד העם 54 ",
+    "latitude": "32.0422691",
+    "longitude": "34.77921608",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "54",
+    "status": "approved"
+  },
+  {
+    "shelterName": "842",
+    "address": "שדרות יד לבנים 22 ",
+    "latitude": "32.0422692",
+    "longitude": "34.77921609",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "22",
+    "status": "reject"
+  },
+  {
+    "shelterName": "1009",
+    "address": "אפלטון 9 ",
+    "latitude": "32.0422693",
+    "longitude": "34.77921610",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "pending"
+  },
+  {
+    "shelterName": "138",
+    "address": "מרכוס דוד 18 ",
+    "latitude": "32.0422694",
+    "longitude": "34.77921611",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "18",
+    "status": "approved"
+  },
+  {
+    "shelterName": "718",
+    "address": "אלון יגאל 46 ",
+    "latitude": "32.0422695",
+    "longitude": "34.77921612",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "46",
+    "status": "approved"
+  },
+  {
+    "shelterName": "120",
+    "address": "קהילת לודג' 28 ",
+    "latitude": "32.0422696",
+    "longitude": "34.77921613",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "210",
+    "address": "רדינג 10 ",
+    "latitude": "32.0422697",
+    "longitude": "34.77921614",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "10",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר צהלה",
+    "address": "עשהאל 24 ",
+    "latitude": "32.0422698",
+    "longitude": "34.77921615",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "24",
+    "status": "pending"
+  },
+  {
+    "shelterName": "905",
+    "address": "ישראל מסלנט 27 ",
+    "latitude": "32.0422699",
+    "longitude": "34.77921616",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "27",
+    "status": "approved"
+  },
+  {
+    "shelterName": "839",
+    "address": "זבד 13 ",
+    "latitude": "32.0422700",
+    "longitude": "34.77921617",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "13",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדלי הארבעה",
+    "address": "הארבעה 28 ",
+    "latitude": "32.0422701",
+    "longitude": "34.77921618",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "ריב\"ל 7",
+    "address": "ריב\"ל 7 ",
+    "latitude": "32.0422702",
+    "longitude": "34.77921619",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "7",
+    "status": "reject"
+  },
+  {
+    "shelterName": "1011",
+    "address": "מנדס פרנס 8 ",
+    "latitude": "32.0422703",
+    "longitude": "34.77921620",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "pending"
+  },
+  {
+    "shelterName": "532",
+    "address": "שביל שולמן 5 ",
+    "latitude": "32.0422704",
+    "longitude": "34.77921621",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1023",
+    "address": "הלוטוס 12 ",
+    "latitude": "32.0422705",
+    "longitude": "34.77921622",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "828",
+    "address": "אורים 41 ",
+    "latitude": "32.0422706",
+    "longitude": "34.77921623",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "41",
+    "status": "approved"
+  },
+  {
+    "shelterName": "202",
+    "address": "כפר יונה 14 ",
+    "latitude": "32.0422707",
+    "longitude": "34.77921624",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "14",
+    "status": "reject"
+  },
+  {
+    "shelterName": "703",
+    "address": "הנגרים 25 ",
+    "latitude": "32.0422708",
+    "longitude": "34.77921625",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "25",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מתחם פנימיות תל ברוך",
+    "address": "מאייר מרדכי 2 ",
+    "latitude": "32.0422709",
+    "longitude": "34.77921626",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1025",
+    "address": "ארליך 35 ",
+    "latitude": "32.0422710",
+    "longitude": "34.77921627",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "35",
+    "status": "approved"
+  },
+  {
+    "shelterName": "914",
+    "address": "ישראל מסלנט 26 ",
+    "latitude": "32.0422711",
+    "longitude": "34.77921628",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "26",
+    "status": "approved"
+  },
+  {
+    "shelterName": "717",
+    "address": "פטרסון 3 ",
+    "latitude": "32.0422712",
+    "longitude": "34.77921629",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ציון",
+    "address": "רוטשילד 41 ",
+    "latitude": "32.0422713",
+    "longitude": "34.77921630",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "41",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר שורשים",
+    "address": "בעל העקידה 42 ",
+    "latitude": "32.0422714",
+    "longitude": "34.77921631",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "42",
+    "status": "approved"
+  },
+  {
+    "shelterName": "915",
+    "address": "ישראל מסלנט 28 ",
+    "latitude": "32.0422715",
+    "longitude": "34.77921632",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר שילה",
+    "address": "יפת 232 ",
+    "latitude": "32.0422716",
+    "longitude": "34.77921633",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "232",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית קרדן",
+    "address": "בגין מנחם 154 ",
+    "latitude": "32.0422717",
+    "longitude": "34.77921634",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "154",
+    "status": "reject"
+  },
+  {
+    "shelterName": "803",
+    "address": "הפלמ\"ח 28 ",
+    "latitude": "32.0422718",
+    "longitude": "34.77921635",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "28",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מרכז לוינסקי",
+    "address": "לוינסקי 39 ",
+    "latitude": "32.0422719",
+    "longitude": "34.77921636",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "39",
+    "status": "approved"
+  },
+  {
+    "shelterName": "626",
+    "address": "שבתי דון יחייא 1 ",
+    "latitude": "32.0422720",
+    "longitude": "34.77921637",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "2",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר עירוני ט'",
+    "address": "טשרנא 7 ",
+    "latitude": "32.0422721",
+    "longitude": "34.77921638",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "7",
+    "status": "approved"
+  },
+  {
+    "shelterName": "513",
+    "address": "לונץ 8 ",
+    "latitude": "32.0422722",
+    "longitude": "34.77921639",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "reject"
+  },
+  {
+    "shelterName": "529",
+    "address": "עמישב 21 ",
+    "latitude": "32.0422723",
+    "longitude": "34.77921640",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "21",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מגדל התיכון",
+    "address": "הארבעה 17 ",
+    "latitude": "32.0422724",
+    "longitude": "34.77921641",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "17",
+    "status": "approved"
+  },
+  {
+    "shelterName": "אי . בי . סי",
+    "address": "השלושה 2 ",
+    "latitude": "32.0422725",
+    "longitude": "34.77921642",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר כפיר",
+    "address": "אנקאווא רפאל הרב 13 ",
+    "latitude": "32.0422726",
+    "longitude": "34.77921643",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "13",
+    "status": "approved"
+  },
+  {
+    "shelterName": "126",
+    "address": "עולי הגרדום 5 ",
+    "latitude": "32.0422727",
+    "longitude": "34.77921644",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "2",
+    "likesCount": "5",
+    "status": "reject"
+  },
+  {
+    "shelterName": "1031",
+    "address": "שבטי ישראל 77 ",
+    "latitude": "32.0422728",
+    "longitude": "34.77921645",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "77",
+    "status": "pending"
+  },
+  {
+    "shelterName": "702",
+    "address": "פרנקל ידידיה 44 ",
+    "latitude": "32.0422729",
+    "longitude": "34.77921646",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "44",
+    "status": "approved"
+  },
+  {
+    "shelterName": "522",
+    "address": "גרשון ש\"ץ 25 ",
+    "latitude": "32.0422730",
+    "longitude": "34.77921647",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "25",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר חסן ערפה",
+    "address": "קדם 40 ",
+    "latitude": "32.0422731",
+    "longitude": "34.77921648",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "40",
+    "status": "approved"
+  },
+  {
+    "shelterName": "846",
+    "address": "שדרות יד לבנים 27 ",
+    "latitude": "32.0422732",
+    "longitude": "34.77921649",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "27",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית אבות \"בית שלום\" - מקלט בחניון",
+    "address": "גרץ 11",
+    "latitude": "32.0422733",
+    "longitude": "34.77921650",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "3",
+    "likesCount": "11",
+    "status": "pending"
+  },
+  {
+    "shelterName": "אחוזת צהלה",
+    "address": "שבתאי יעקב 22 ",
+    "latitude": "32.0422734",
+    "longitude": "34.77921651",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "22",
+    "status": "approved"
+  },
+  {
+    "shelterName": "927",
+    "address": "רבי מאיר בעל הנס 5 ",
+    "latitude": "32.0422735",
+    "longitude": "34.77921652",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "137",
+    "address": "ק\"ם 83 ",
+    "latitude": "32.0422736",
+    "longitude": "34.77921653",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "83",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר אלחריזי",
+    "address": "מגדל שרשן 17 ",
+    "latitude": "32.0422737",
+    "longitude": "34.77921654",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "17",
+    "status": "reject"
+  },
+  {
+    "shelterName": "דיזינגוף 255",
+    "address": "דיזנגוף 255 ",
+    "latitude": "32.0422738",
+    "longitude": "34.77921655",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "3",
+    "likesCount": "255",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר עירוני ח",
+    "address": "התשעים ושלוש 2 ",
+    "latitude": "32.0422739",
+    "longitude": "34.77921656",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "911",
+    "address": "עמיקם 8 ",
+    "latitude": "32.0422740",
+    "longitude": "34.77921657",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "approved"
+  },
+  {
+    "shelterName": "516",
+    "address": "פליטי הספר 19 ",
+    "latitude": "32.0422741",
+    "longitude": "34.77921658",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "812",
+    "address": "אצ\"ל 34 ",
+    "latitude": "32.0422742",
+    "longitude": "34.77921659",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "34",
+    "status": "reject"
+  },
+  {
+    "shelterName": "עתידים",
+    "address": "2184 8 ",
+    "latitude": "32.0422743",
+    "longitude": "34.77921660",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "8",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מרכז מנדל",
+    "address": "התקומה 46 ",
+    "latitude": "32.0422744",
+    "longitude": "34.77921661",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "46",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר דוד בלוך",
+    "address": "בצרון 19 ",
+    "latitude": "32.0422745",
+    "longitude": "34.77921662",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בניין החממה- ביה\"ס לאומנויות",
+    "address": "סעדיה גאון 6 ",
+    "latitude": "32.0422746",
+    "longitude": "34.77921663",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית בספר תיכון עירוני כב",
+    "address": "גולדמן נחום 7 ",
+    "latitude": "32.0422747",
+    "longitude": "34.77921664",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "7",
+    "status": "reject"
+  },
+  {
+    "shelterName": "821",
+    "address": "שתולים 2 ",
+    "latitude": "32.0422748",
+    "longitude": "34.77921665",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "2",
+    "status": "pending"
+  },
+  {
+    "shelterName": "תל נורדאו",
+    "address": "פרישמן 28 ",
+    "latitude": "32.0422749",
+    "longitude": "34.77921666",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "107",
+    "address": "עשהאל 5 ",
+    "latitude": "32.0422750",
+    "longitude": "34.77921667",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית הכוהנים",
+    "address": "צייטלין 3 ",
+    "latitude": "32.0422751",
+    "longitude": "34.77921668",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "115",
+    "address": "עיר שמש 36 ",
+    "latitude": "32.0422752",
+    "longitude": "34.77921669",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "36",
+    "status": "reject"
+  },
+  {
+    "shelterName": "124",
+    "address": "משמר הירדן 67 ",
+    "latitude": "32.0422753",
+    "longitude": "34.77921670",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "67",
+    "status": "pending"
+  },
+  {
+    "shelterName": "יגאל אלון 126 ",
+    "address": "יגאל אלון 126 ",
+    "latitude": "32.0422754",
+    "longitude": "34.77921671",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "126",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון בצלאל",
+    "address": "המכבי 2א",
+    "latitude": "32.0422755",
+    "longitude": "34.77921672",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מקלט בשטח חניון בזל",
+    "address": "בזל 42 ",
+    "latitude": "32.0422756",
+    "longitude": "34.77921673",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "3",
+    "likesCount": "42",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר עירוני ד' חט\"ב",
+    "address": "ועידת קטוביץ 47 ",
+    "latitude": "32.0422757",
+    "longitude": "34.77921674",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "47",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר גבריאלי",
+    "address": "שפירא צבי הרמן 21 ",
+    "latitude": "32.0422758",
+    "longitude": "34.77921675",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "21",
+    "status": "pending"
+  },
+  {
+    "shelterName": "322",
+    "address": "בן יהודה 161 ",
+    "latitude": "32.0422759",
+    "longitude": "34.77921676",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "161",
+    "status": "approved"
+  },
+  {
+    "shelterName": "201",
+    "address": "גרונימן 10 ",
+    "latitude": "32.0422760",
+    "longitude": "34.77921677",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "10",
+    "status": "approved"
+  },
+  {
+    "shelterName": "206",
+    "address": "גרונימן 26 ",
+    "latitude": "32.0422761",
+    "longitude": "34.77921678",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "26",
+    "status": "approved"
+  },
+  {
+    "shelterName": "843",
+    "address": "שדרות יד לבנים 26 ",
+    "latitude": "32.0422762",
+    "longitude": "34.77921679",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "26",
+    "status": "reject"
+  },
+  {
+    "shelterName": "912",
+    "address": "סמטת אסירי ציון 11 ",
+    "latitude": "32.0422763",
+    "longitude": "34.77921680",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "11",
+    "status": "pending"
+  },
+  {
+    "shelterName": "917",
+    "address": "דיק 10 ",
+    "latitude": "32.0422764",
+    "longitude": "34.77921681",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "10",
+    "status": "approved"
+  },
+  {
+    "shelterName": "630",
+    "address": "התבור 32 ",
+    "latitude": "32.0422765",
+    "longitude": "34.77921682",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "32",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית מקאן אריקסון",
+    "address": "ולנברג ראול 2א",
+    "latitude": "32.0422766",
+    "longitude": "34.77921683",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר איתמר בן אב\"י",
+    "address": "קהילת קנדה 13 ",
+    "latitude": "32.0422767",
+    "longitude": "34.77921684",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "13",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר הדקל",
+    "address": "גרוסמן מאיר 7 ",
+    "latitude": "32.0422768",
+    "longitude": "34.77921685",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "7",
+    "status": "pending"
+  },
+  {
+    "shelterName": "417",
+    "address": "שדרות מסריק 6 ",
+    "latitude": "32.0422769",
+    "longitude": "34.77921686",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ביניים אלנבי 105",
+    "address": "אלנבי 105 ",
+    "latitude": "32.0422770",
+    "longitude": "34.77921687",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "105",
+    "status": "approved"
+  },
+  {
+    "shelterName": "921",
+    "address": "הכינור 3 ",
+    "latitude": "32.0422771",
+    "longitude": "34.77921688",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "904",
+    "address": "רינגלבלום 1 ",
+    "latitude": "32.0422772",
+    "longitude": "34.77921689",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "1",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית אליהו",
+    "address": "אבן גבירול 2 ",
+    "latitude": "32.0422773",
+    "longitude": "34.77921690",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "pending"
+  },
+  {
+    "shelterName": "503",
+    "address": "העבודה 5 ",
+    "latitude": "32.0422774",
+    "longitude": "34.77921691",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "903",
+    "address": "בעל העקידה 29 ",
+    "latitude": "32.0422775",
+    "longitude": "34.77921692",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "29",
+    "status": "approved"
+  },
+  {
+    "shelterName": "208",
+    "address": "פטאי יוסף 21 ",
+    "latitude": "32.0422776",
+    "longitude": "34.77921693",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "21",
+    "status": "approved"
+  },
+  {
+    "shelterName": "913",
+    "address": "אלכסנדר זייד 23 ",
+    "latitude": "32.0422777",
+    "longitude": "34.77921694",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "23",
+    "status": "reject"
+  },
+  {
+    "shelterName": "106",
+    "address": "ק\"ם 34 ",
+    "latitude": "32.0422778",
+    "longitude": "34.77921695",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "34",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר הגליל",
+    "address": "גבעתי 4 ",
+    "latitude": "32.0422779",
+    "longitude": "34.77921696",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר דוד ילין",
+    "address": "קהילת ורשה 30 ",
+    "latitude": "32.0422780",
+    "longitude": "34.77921697",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "30",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר יהודה מכבי",
+    "address": "אנטיגונוס 6 ",
+    "latitude": "32.0422781",
+    "longitude": "34.77921698",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "2",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "102",
+    "address": "קהילת ביאלסטוק 1 ",
+    "latitude": "32.0422782",
+    "longitude": "34.77921699",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "1",
+    "status": "reject"
+  },
+  {
+    "shelterName": "1030",
+    "address": "סמטת מזל גדי 3 ",
+    "latitude": "32.0422783",
+    "longitude": "34.77921700",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "pending"
+  },
+  {
+    "shelterName": "806",
+    "address": "סר ג'ון מונש 28 ",
+    "latitude": "32.0422784",
+    "longitude": "34.77921701",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "103",
+    "address": "זכות משה 10 ",
+    "latitude": "32.0422785",
+    "longitude": "34.77921702",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "10",
+    "status": "approved"
+  },
+  {
+    "shelterName": "127",
+    "address": "הגולן 134 ",
+    "latitude": "32.0422786",
+    "longitude": "34.77921703",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "134",
+    "status": "approved"
+  },
+  {
+    "shelterName": "629",
+    "address": "התבור 29 ",
+    "latitude": "32.0422787",
+    "longitude": "34.77921704",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "29",
+    "status": "reject"
+  },
+  {
+    "shelterName": "306",
+    "address": "הכנסת הגדולה 3 ",
+    "latitude": "32.0422788",
+    "longitude": "34.77921705",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "pending"
+  },
+  {
+    "shelterName": "CU",
+    "address": "ולנברג ראול 20",
+    "latitude": "32.0422789",
+    "longitude": "34.77921706",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "20",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1026",
+    "address": "יפת 44 ",
+    "latitude": "32.0422790",
+    "longitude": "34.77921707",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "2",
+    "likesCount": "44",
+    "status": "approved"
+  },
+  {
+    "shelterName": "832",
+    "address": "שדרות יד לבנים 21 ",
+    "latitude": "32.0422791",
+    "longitude": "34.77921708",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "21",
+    "status": "approved"
+  },
+  {
+    "shelterName": "709",
+    "address": "לוינסקי 95 ",
+    "latitude": "32.0422792",
+    "longitude": "34.77921709",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "95",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר בעש\"ט",
+    "address": "לובטקין צביה 35 ",
+    "latitude": "32.0422793",
+    "longitude": "34.77921710",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "35",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מגדל דיסקונט",
+    "address": "יהודה הלוי 23 ",
+    "latitude": "32.0422794",
+    "longitude": "34.77921711",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "23",
+    "status": "approved"
+  },
+  {
+    "shelterName": "531",
+    "address": "השלום 101 ",
+    "latitude": "32.0422795",
+    "longitude": "34.77921712",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "101",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית קנדה",
+    "address": "נירים 1 ",
+    "latitude": "32.0422796",
+    "longitude": "34.77921713",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "רובע לב העיר",
+    "address": "בלפור 8 ",
+    "latitude": "32.0422797",
+    "longitude": "34.77921714",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "8",
+    "status": "reject"
+  },
+  {
+    "shelterName": "308",
+    "address": "יחזקאל 16 ",
+    "latitude": "32.0422798",
+    "longitude": "34.77921715",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "16",
+    "status": "pending"
+  },
+  {
+    "shelterName": "813",
+    "address": "אצ\"ל 22 ",
+    "latitude": "32.0422799",
+    "longitude": "34.77921716",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "22",
+    "status": "approved"
+  },
+  {
+    "shelterName": "301",
+    "address": "שדרות מוצקין 29 ",
+    "latitude": "32.0422800",
+    "longitude": "34.77921717",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "29",
+    "status": "approved"
+  },
+  {
+    "shelterName": "916",
+    "address": "טורי זהב 15 ",
+    "latitude": "32.0422801",
+    "longitude": "34.77921718",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "15",
+    "status": "approved"
+  },
+  {
+    "shelterName": "505",
+    "address": "דפנה 32 ",
+    "latitude": "32.0422802",
+    "longitude": "34.77921719",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "32",
+    "status": "reject"
+  },
+  {
+    "shelterName": "410",
+    "address": "אדוארד ברנשטיין 7 ",
+    "latitude": "32.0422803",
+    "longitude": "34.77921720",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "7",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר רמת החייל",
+    "address": "ק\"ם 65 ",
+    "latitude": "32.0422804",
+    "longitude": "34.77921721",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "65",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מלון הילטון",
+    "address": "הירקון 205 ",
+    "latitude": "32.0422805",
+    "longitude": "34.77921722",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "205",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר תל נורדאו",
+    "address": "מנדלי מוכר ספרים 19 ",
+    "latitude": "32.0422806",
+    "longitude": "34.77921723",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל פלטינום",
+    "address": "ארניה אוסוולדו 23 ",
+    "latitude": "32.0422807",
+    "longitude": "34.77921724",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "23",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית צרפת (דלדר) בע\"מ",
+    "address": "תובל 5 ",
+    "latitude": "32.0422808",
+    "longitude": "34.77921725",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "5",
+    "status": "pending"
+  },
+  {
+    "shelterName": "1007",
+    "address": "עזה 8 ",
+    "latitude": "32.0422809",
+    "longitude": "34.77921726",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "approved"
+  },
+  {
+    "shelterName": "402",
+    "address": "פינסקר 16 ",
+    "latitude": "32.0422810",
+    "longitude": "34.77921727",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "16",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדלי זיו",
+    "address": "ולנברג 24 ",
+    "latitude": "32.0422811",
+    "longitude": "34.77921728",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "24",
+    "status": "approved"
+  },
+  {
+    "shelterName": "528",
+    "address": "חפץ חיים 20 ",
+    "latitude": "32.0422812",
+    "longitude": "34.77921729",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "20",
+    "status": "reject"
+  },
+  {
+    "shelterName": "1019",
+    "address": "אשדוד 7 ",
+    "latitude": "32.0422813",
+    "longitude": "34.77921730",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "7",
+    "status": "pending"
+  },
+  {
+    "shelterName": "811",
+    "address": "אצ\"ל 76 ",
+    "latitude": "32.0422814",
+    "longitude": "34.77921731",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "76",
+    "status": "approved"
+  },
+  {
+    "shelterName": "אסותא רמת החייל",
+    "address": "הברזל 20",
+    "latitude": "32.0422815",
+    "longitude": "34.77921732",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "20",
+    "status": "approved"
+  },
+  {
+    "shelterName": "207",
+    "address": "קרני יהודה 9 ",
+    "latitude": "32.0422816",
+    "longitude": "34.77921733",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדלי אור",
+    "address": "הברזל 27 ",
+    "latitude": "32.0422817",
+    "longitude": "34.77921734",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "27",
+    "status": "reject"
+  },
+  {
+    "shelterName": "819",
+    "address": "בועז 24 ",
+    "latitude": "32.0422818",
+    "longitude": "34.77921735",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "24",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית ספר יחד",
+    "address": "לח\"י 66 ",
+    "latitude": "32.0422819",
+    "longitude": "34.77921736",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "66",
+    "status": "approved"
+  },
+  {
+    "shelterName": "537",
+    "address": "ביל\"ו 54 ",
+    "latitude": "32.0422820",
+    "longitude": "34.77921737",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "54",
+    "status": "approved"
+  },
+  {
+    "shelterName": "622",
+    "address": "רוקח שמעון 19 ",
+    "latitude": "32.0422821",
+    "longitude": "34.77921738",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית אפריקה ישראל",
+    "address": "אחד העם 14",
+    "latitude": "32.0422822",
+    "longitude": "34.77921739",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "14",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר גיבורי ישראל",
+    "address": "שדרות יד לבנים 18 ",
+    "latitude": "32.0422823",
+    "longitude": "34.77921740",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "18",
+    "status": "pending"
+  },
+  {
+    "shelterName": "450",
+    "address": "השופטים 37",
+    "latitude": "32.0422824",
+    "longitude": "34.77921741",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "37",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר שושנה דמארי",
+    "address": "השלום 119 ",
+    "latitude": "32.0422825",
+    "longitude": "34.77921742",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "119",
+    "status": "approved"
+  },
+  {
+    "shelterName": "918",
+    "address": "אופטושו יוסף 2 ",
+    "latitude": "32.0422826",
+    "longitude": "34.77921743",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "8",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית יכין",
+    "address": "אבן גבירול 14 ",
+    "latitude": "32.0422827",
+    "longitude": "34.77921744",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "14",
+    "status": "reject"
+  },
+  {
+    "shelterName": "800",
+    "address": "סר ג'ון מונש 22 ",
+    "latitude": "32.0422828",
+    "longitude": "34.77921745",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "22",
+    "status": "pending"
+  },
+  {
+    "shelterName": "הישיבה לאומנויות ולמדעים בר אילן",
+    "address": "ביל\"ו 17 ",
+    "latitude": "32.0422829",
+    "longitude": "34.77921746",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "17",
+    "status": "approved"
+  },
+  {
+    "shelterName": "525",
+    "address": "אשרמן יוסף 9 ",
+    "latitude": "32.0422830",
+    "longitude": "34.77921747",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "419",
+    "address": "אד\"ם הכהן 7 ",
+    "latitude": "32.0422831",
+    "longitude": "34.77921748",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "7",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית סוויץ' אפ",
+    "address": "בית עובד 3 ",
+    "latitude": "32.0422832",
+    "longitude": "34.77921749",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "reject"
+  },
+  {
+    "shelterName": "ג'י תל ברוך",
+    "address": "בקר אהרון 8 ",
+    "latitude": "32.0422833",
+    "longitude": "34.77921750",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "8",
+    "status": "pending"
+  },
+  {
+    "shelterName": "גן החשמל",
+    "address": "סמטת הגינה 3 ",
+    "latitude": "32.0422834",
+    "longitude": "34.77921751",
+    "type": "מקלט בשטח חניון",
+    "createdByUserId": "3",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "815",
+    "address": "התקוה 70 ",
+    "latitude": "32.0422835",
+    "longitude": "34.77921752",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "70",
+    "status": "approved"
+  },
+  {
+    "shelterName": "432",
+    "address": "פרוג 17 ",
+    "latitude": "32.0422836",
+    "longitude": "34.77921753",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "17",
+    "status": "approved"
+  },
+  {
+    "shelterName": "404",
+    "address": "שניאור זלמן 4 ",
+    "latitude": "32.0422837",
+    "longitude": "34.77921754",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "4",
+    "status": "reject"
+  },
+  {
+    "shelterName": "111",
+    "address": "הטית זין 8 ",
+    "latitude": "32.0422838",
+    "longitude": "34.77921755",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מגדל פרישמן",
+    "address": "פרישמן 54 ",
+    "latitude": "32.0422839",
+    "longitude": "34.77921756",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "54",
+    "status": "approved"
+  },
+  {
+    "shelterName": "תוה\"א",
+    "address": "השלום 5",
+    "latitude": "32.0422840",
+    "longitude": "34.77921757",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית עובד",
+    "address": "בית עובד 15 ",
+    "latitude": "32.0422841",
+    "longitude": "34.77921758",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "15",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל המילניום",
+    "address": "הארבעה 21 ",
+    "latitude": "32.0422842",
+    "longitude": "34.77921759",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "21",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בנק לאומי",
+    "address": "יהודה הלוי 34 ",
+    "latitude": "32.0422843",
+    "longitude": "34.77921760",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "34",
+    "status": "pending"
+  },
+  {
+    "shelterName": "136",
+    "address": "עולי הגרדום 30 ",
+    "latitude": "32.0422844",
+    "longitude": "34.77921761",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "30",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר ארן",
+    "address": "בורלא יהודה 25 ",
+    "latitude": "32.0422845",
+    "longitude": "34.77921762",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "25",
+    "status": "approved"
+  },
+  {
+    "shelterName": "407",
+    "address": "מיכה 20 ",
+    "latitude": "32.0422846",
+    "longitude": "34.77921763",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "20",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר עירוני ה",
+    "address": "בן יהודה 227 ",
+    "latitude": "32.0422847",
+    "longitude": "34.77921764",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "227",
+    "status": "reject"
+  },
+  {
+    "shelterName": "319",
+    "address": "דיזנגוף 312 ",
+    "latitude": "32.0422848",
+    "longitude": "34.77921765",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "312",
+    "status": "pending"
+  },
+  {
+    "shelterName": "314",
+    "address": "אריסטובולוס 1 ",
+    "latitude": "32.0422849",
+    "longitude": "34.77921766",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "421",
+    "address": "הירקון 140 ",
+    "latitude": "32.0422850",
+    "longitude": "34.77921767",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "140",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר דוד ילין",
+    "address": "קהילת ורשה 12 ",
+    "latitude": "32.0422851",
+    "longitude": "34.77921768",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "415",
+    "address": "המלך ג'ורג' 33 ",
+    "latitude": "32.0422852",
+    "longitude": "34.77921769",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "33",
+    "status": "reject"
+  },
+  {
+    "shelterName": "צ'ק פוינט",
+    "address": "הסוללים 5 ",
+    "latitude": "32.0422853",
+    "longitude": "34.77921770",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "5",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון מגדל אלקטרה",
+    "address": "יגאל אלון  98",
+    "latitude": "32.0422854",
+    "longitude": "34.77921771",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "98",
+    "status": "approved"
+  },
+  {
+    "shelterName": "נאות התיכון מרכז גריאטרי",
+    "address": "טולוז  8 ",
+    "latitude": "32.0422855",
+    "longitude": "34.77921772",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "8",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדלי תל אביב",
+    "address": "נחלת יצחק  20 ",
+    "latitude": "32.0422856",
+    "longitude": "34.77921773",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "20",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל סונול",
+    "address": "מנחם בגין 52 ",
+    "latitude": "32.0422857",
+    "longitude": "34.77921774",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "52",
+    "status": "reject"
+  },
+  {
+    "shelterName": "517",
+    "address": "דם המכבים 26 ",
+    "latitude": "32.0422858",
+    "longitude": "34.77921775",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "26",
+    "status": "pending"
+  },
+  {
+    "shelterName": "101",
+    "address": "קהילת קראקוב 3 ",
+    "latitude": "32.0422859",
+    "longitude": "34.77921776",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "910",
+    "address": "בלבן מאיר 3 ",
+    "latitude": "32.0422860",
+    "longitude": "34.77921777",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל רמז",
+    "address": "רמז דוד 6 ",
+    "latitude": "32.0422861",
+    "longitude": "34.77921778",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1024",
+    "address": "צהלון הרופא 3 ",
+    "latitude": "32.0422862",
+    "longitude": "34.77921779",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מתחם  גני צבי שפירא",
+    "address": "הצבי 5 ",
+    "latitude": "32.0422863",
+    "longitude": "34.77921780",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "5",
+    "status": "pending"
+  },
+  {
+    "shelterName": "1018",
+    "address": "שדרות חב\"ד 26 ",
+    "latitude": "32.0422864",
+    "longitude": "34.77921781",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "26",
+    "status": "approved"
+  },
+  {
+    "shelterName": "520",
+    "address": "איסרליש 5 ",
+    "latitude": "32.0422865",
+    "longitude": "34.77921782",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "5",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר היובל",
+    "address": "מודיליאני 19 ",
+    "latitude": "32.0422866",
+    "longitude": "34.77921783",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "534",
+    "address": "שביל ארטר יצחק 6 ",
+    "latitude": "32.0422867",
+    "longitude": "34.77921784",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "reject"
+  },
+  {
+    "shelterName": "401",
+    "address": "הפרדס 5 ",
+    "latitude": "32.0422868",
+    "longitude": "34.77921785",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "pending"
+  },
+  {
+    "shelterName": "1012",
+    "address": "יוסי בן יוסי 1א",
+    "latitude": "32.0422869",
+    "longitude": "34.77921786",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "היכל התרבות",
+    "address": "הוברמן 1 ",
+    "latitude": "32.0422870",
+    "longitude": "34.77921787",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "705",
+    "address": "הגר\"א 28 ",
+    "latitude": "32.0422871",
+    "longitude": "34.77921788",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "1",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "833",
+    "address": "שדרות יד לבנים 4 ",
+    "latitude": "32.0422872",
+    "longitude": "34.77921789",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "4",
+    "status": "reject"
+  },
+  {
+    "shelterName": "1003",
+    "address": "ארליך 3 ",
+    "latitude": "32.0422873",
+    "longitude": "34.77921790",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "pending"
+  },
+  {
+    "shelterName": "316",
+    "address": "שדרות מוצקין 6 ",
+    "latitude": "32.0422874",
+    "longitude": "34.77921791",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר עירוני ח",
+    "address": "התשעים ושלוש 4 ",
+    "latitude": "32.0422875",
+    "longitude": "34.77921792",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "807",
+    "address": "ורד 9ב",
+    "latitude": "32.0422876",
+    "longitude": "34.77921793",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "110",
+    "address": "פילדלפיה 8 ",
+    "latitude": "32.0422877",
+    "longitude": "34.77921794",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "8",
+    "status": "reject"
+  },
+  {
+    "shelterName": "118",
+    "address": "בריג אמיל 5 ",
+    "latitude": "32.0422878",
+    "longitude": "34.77921795",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "5",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מגדל אלרוב",
+    "address": "שד\"ל 3 ",
+    "latitude": "32.0422879",
+    "longitude": "34.77921796",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "135",
+    "address": "מרק יעקב 3 ",
+    "latitude": "32.0422880",
+    "longitude": "34.77921797",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "907",
+    "address": "הקשת 28 ",
+    "latitude": "32.0422881",
+    "longitude": "34.77921798",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר ארזים",
+    "address": "לויטן יצחק 7 ",
+    "latitude": "32.0422882",
+    "longitude": "34.77921799",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "7",
+    "status": "reject"
+  },
+  {
+    "shelterName": "גינת השרון",
+    "address": "החשמל 9 ",
+    "latitude": "32.0422883",
+    "longitude": "34.77921800",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "9",
+    "status": "pending"
+  },
+  {
+    "shelterName": "119",
+    "address": "קהילת לודג' 12 ",
+    "latitude": "32.0422884",
+    "longitude": "34.77921801",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "627",
+    "address": "התלמי יהושע 16 ",
+    "latitude": "32.0422885",
+    "longitude": "34.77921802",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "16",
+    "status": "approved"
+  },
+  {
+    "shelterName": "ג'י צמרת",
+    "address": "אלוני ניסים 10 ",
+    "latitude": "32.0422886",
+    "longitude": "34.77921803",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "10",
+    "status": "approved"
+  },
+  {
+    "shelterName": "802",
+    "address": "רחבת הסיירים 1 ",
+    "latitude": "32.0422887",
+    "longitude": "34.77921804",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "1",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר א.ד גורדון",
+    "address": "הירקון 248 ",
+    "latitude": "32.0422888",
+    "longitude": "34.77921805",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "248",
+    "status": "pending"
+  },
+  {
+    "shelterName": "1015",
+    "address": "קדם 125 ",
+    "latitude": "32.0422889",
+    "longitude": "34.77921806",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "125",
+    "status": "approved"
+  },
+  {
+    "shelterName": "411",
+    "address": "הכרם 2 ",
+    "latitude": "32.0422890",
+    "longitude": "34.77921807",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "113",
+    "address": "תבואות הארץ 9 ",
+    "latitude": "32.0422891",
+    "longitude": "34.77921808",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "129",
+    "address": "אלדד הדני 11 ",
+    "latitude": "32.0422892",
+    "longitude": "34.77921809",
+    "type": "מקלט ציבורי נגיש",
+    "createdByUserId": "2",
+    "likesCount": "11",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון המוזיאון",
+    "address": "ברקוביץ 4",
+    "latitude": "32.0422893",
+    "longitude": "34.77921810",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "4",
+    "status": "pending"
+  },
+  {
+    "shelterName": "706",
+    "address": "ויטל חיים 2 ",
+    "latitude": "32.0422894",
+    "longitude": "34.77921811",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדלי טויוטה",
+    "address": "אלון יגאל 65 ",
+    "latitude": "32.0422895",
+    "longitude": "34.77921812",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "65",
+    "status": "approved"
+  },
+  {
+    "shelterName": "134",
+    "address": "הדר יוסף 24 ",
+    "latitude": "32.0422896",
+    "longitude": "34.77921813",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "24",
+    "status": "approved"
+  },
+  {
+    "shelterName": "922",
+    "address": "השרביט 4 ",
+    "latitude": "32.0422897",
+    "longitude": "34.77921814",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "4",
+    "status": "reject"
+  },
+  {
+    "shelterName": "506",
+    "address": "סולד הנרייטה 6",
+    "latitude": "32.0422898",
+    "longitude": "34.77921815",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מגדל האופרה",
+    "address": "הירדן 4 ",
+    "latitude": "32.0422899",
+    "longitude": "34.77921816",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "930",
+    "address": "שלושת החיצים 6 ",
+    "latitude": "32.0422900",
+    "longitude": "34.77921817",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "504",
+    "address": "שטרוק 16 ",
+    "latitude": "32.0422901",
+    "longitude": "34.77921818",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "16",
+    "status": "approved"
+  },
+  {
+    "shelterName": "841",
+    "address": "דיין משה 116 ",
+    "latitude": "32.0422902",
+    "longitude": "34.77921819",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "116",
+    "status": "reject"
+  },
+  {
+    "shelterName": "908",
+    "address": "בורמה 9 ",
+    "latitude": "32.0422903",
+    "longitude": "34.77921820",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "9",
+    "status": "pending"
+  },
+  {
+    "shelterName": "707",
+    "address": "העליה 17 ",
+    "latitude": "32.0422904",
+    "longitude": "34.77921821",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "17",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר סמי מיכאל",
+    "address": "ראול ולנברג 28 ",
+    "latitude": "32.0422905",
+    "longitude": "34.77921822",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1001",
+    "address": "פסטלוצי 12 ",
+    "latitude": "32.0422906",
+    "longitude": "34.77921823",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית לין",
+    "address": "יהודה הלוי 37 ",
+    "latitude": "32.0422907",
+    "longitude": "34.77921824",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "37",
+    "status": "reject"
+  },
+  {
+    "shelterName": "405",
+    "address": "שניאור זלמן 2 ",
+    "latitude": "32.0422908",
+    "longitude": "34.77921825",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "2",
+    "status": "pending"
+  },
+  {
+    "shelterName": "130",
+    "address": "הגולן 124 ",
+    "latitude": "32.0422909",
+    "longitude": "34.77921826",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "124",
+    "status": "approved"
+  },
+  {
+    "shelterName": "הרכבת 58",
+    "address": "הרכבת 58 ",
+    "latitude": "32.0422910",
+    "longitude": "34.77921827",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "58",
+    "status": "approved"
+  },
+  {
+    "shelterName": "804",
+    "address": "שדרות החי\"ל 33 ",
+    "latitude": "32.0422911",
+    "longitude": "34.77921828",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "33",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל רובינשטיין",
+    "address": "הרכבת  30 ",
+    "latitude": "32.0422912",
+    "longitude": "34.77921829",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "30",
+    "status": "reject"
+  },
+  {
+    "shelterName": "309",
+    "address": "יוצ\"ר 6 ",
+    "latitude": "32.0422913",
+    "longitude": "34.77921830",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "pending"
+  },
+  {
+    "shelterName": "814",
+    "address": "אצ\"ל 10 ",
+    "latitude": "32.0422914",
+    "longitude": "34.77921831",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "10",
+    "status": "approved"
+  },
+  {
+    "shelterName": "114",
+    "address": "עולי הגרדום 15 ",
+    "latitude": "32.0422915",
+    "longitude": "34.77921832",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "15",
+    "status": "approved"
+  },
+  {
+    "shelterName": "122",
+    "address": "הגולן 110 ",
+    "latitude": "32.0422916",
+    "longitude": "34.77921833",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "110",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מתחם בתי ספר חב\"ד בנות ויפה נוף",
+    "address": "נחל שורק 5 ",
+    "latitude": "32.0422917",
+    "longitude": "34.77921834",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "5",
+    "status": "reject"
+  },
+  {
+    "shelterName": "117",
+    "address": "יוסף האפרתי 2 ",
+    "latitude": "32.0422918",
+    "longitude": "34.77921835",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "2",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית אמות משפט",
+    "address": "שאול המלך 8 ",
+    "latitude": "32.0422919",
+    "longitude": "34.77921836",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "8",
+    "status": "approved"
+  },
+  {
+    "shelterName": "1006",
+    "address": "ציהתל\"י 40 ",
+    "latitude": "32.0422920",
+    "longitude": "34.77921837",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "40",
+    "status": "approved"
+  },
+  {
+    "shelterName": "845",
+    "address": "בת ציון 11 ",
+    "latitude": "32.0422921",
+    "longitude": "34.77921838",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "11",
+    "status": "approved"
+  },
+  {
+    "shelterName": "היהלום / תחנה מרכזית חדשה ",
+    "address": "לוינסקי 108 ",
+    "latitude": "32.0422922",
+    "longitude": "34.77921839",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "108",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית ספר אהבת ציון",
+    "address": "כהנשטם 16 ",
+    "latitude": "32.0422923",
+    "longitude": "34.77921840",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "16",
+    "status": "pending"
+  },
+  {
+    "shelterName": "416",
+    "address": "סמטת גור אריה 4 ",
+    "latitude": "32.0422924",
+    "longitude": "34.77921841",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "521",
+    "address": "ראם 1 ",
+    "latitude": "32.0422925",
+    "longitude": "34.77921842",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "840",
+    "address": "רשף 18 ",
+    "latitude": "32.0422926",
+    "longitude": "34.77921843",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "18",
+    "status": "approved"
+  },
+  {
+    "shelterName": "409",
+    "address": "זולא אמיל 2 ",
+    "latitude": "32.0422927",
+    "longitude": "34.77921844",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "2",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בנק הפועלים",
+    "address": "יהודה הלוי 63 ",
+    "latitude": "32.0422928",
+    "longitude": "34.77921845",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "63",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בית דרור",
+    "address": "הברזל 21א",
+    "latitude": "32.0422929",
+    "longitude": "34.77921846",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "21",
+    "status": "approved"
+  },
+  {
+    "shelterName": "838",
+    "address": "ההגנה 110 ",
+    "latitude": "32.0422930",
+    "longitude": "34.77921847",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "110",
+    "status": "approved"
+  },
+  {
+    "shelterName": "403",
+    "address": "שניאור זלמן 6 ",
+    "latitude": "32.0422931",
+    "longitude": "34.77921848",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "עזריאלי שרונה",
+    "address": "מנחם בגין 121",
+    "latitude": "32.0422932",
+    "longitude": "34.77921849",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "121",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מתחם גני ילדים  סט",
+    "address": "טשרניחובסקי 33 ",
+    "latitude": "32.0422933",
+    "longitude": "34.77921850",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "33",
+    "status": "pending"
+  },
+  {
+    "shelterName": "123",
+    "address": "הגולן 19 ",
+    "latitude": "32.0422934",
+    "longitude": "34.77921851",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "19",
+    "status": "approved"
+  },
+  {
+    "shelterName": "808",
+    "address": "מושיע 23",
+    "latitude": "32.0422935",
+    "longitude": "34.77921852",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "23",
+    "status": "approved"
+  },
+  {
+    "shelterName": "קמפוס בוכמן",
+    "address": "המערכה 3",
+    "latitude": "32.0422936",
+    "longitude": "34.77921853",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "תחנת אלנבי (ת\"א) כניסה A",
+    "address": "יהודה הלוי 63",
+    "latitude": "32.0422937",
+    "longitude": "34.77921854",
+    "type": "רכבת קלה מחסה לציבור",
+    "createdByUserId": "5",
+    "likesCount": "63",
+    "status": "reject"
+  },
+  {
+    "shelterName": "תחנת יהודית (ת\"א) כניסה A",
+    "address": "מקלף מרדכי 1",
+    "latitude": "32.0422938",
+    "longitude": "34.77921855",
+    "type": "רכבת קלה מחסה לציבור",
+    "createdByUserId": "5",
+    "likesCount": "1",
+    "status": "pending"
+  },
+  {
+    "shelterName": "תחנת שאול המלך (ת\"א) כניסה A",
+    "address": "בגין מנחם  151א",
+    "latitude": "32.0422939",
+    "longitude": "34.77921856",
+    "type": "רכבת קלה מחסה לציבור",
+    "createdByUserId": "5",
+    "likesCount": "151",
+    "status": "approved"
+  },
+  {
+    "shelterName": "תחנת ארלוזורוב (ת\"א) כניסה B",
+    "address": "בגין מנחם  157",
+    "latitude": "32.0422940",
+    "longitude": "34.77921857",
+    "type": "רכבת קלה מחסה לציבור",
+    "createdByUserId": "5",
+    "likesCount": "157",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון אלון",
+    "address": "אלון יגאל 94 ",
+    "latitude": "32.0422941",
+    "longitude": "34.77921858",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "94",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון מלון רויאל ביץ",
+    "address": "הירקון 21 ",
+    "latitude": "32.0422942",
+    "longitude": "34.77921859",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "21",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון מגדל מזדה פורד",
+    "address": "החרש 20 ",
+    "latitude": "32.0422943",
+    "longitude": "34.77921860",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "20",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון מידטאון",
+    "address": "בגין מנחם 144 ",
+    "latitude": "32.0422944",
+    "longitude": "34.77921861",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "144",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון לב תל אביב",
+    "address": "מונטיפיורי 37 ",
+    "latitude": "32.0422945",
+    "longitude": "34.77921862",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "37",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית הורים - ויצו",
+    "address": "דוד המלך 40 ",
+    "latitude": "32.0422946",
+    "longitude": "34.77921863",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "40",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון מגדל לוינשטיין",
+    "address": "בגין מנחם  23 ",
+    "latitude": "32.0422947",
+    "longitude": "34.77921864",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "23",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון בית אסיה",
+    "address": "ויצמן 4 ",
+    "latitude": "32.0422948",
+    "longitude": "34.77921865",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "4",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון מגדל קרסו",
+    "address": "יד חרוצים 12 ",
+    "latitude": "32.0422949",
+    "longitude": "34.77921866",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "פינס 39",
+    "address": "פינס 39 ",
+    "latitude": "32.0422950",
+    "longitude": "34.77921867",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "39",
+    "status": "approved"
+  },
+  {
+    "shelterName": "רוטשילד 20",
+    "address": "רוטשילד 20 ",
+    "latitude": "32.0422951",
+    "longitude": "34.77921868",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "20",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון כיכר עליה",
+    "address": "צ'לנוב 20 ",
+    "latitude": "32.0422952",
+    "longitude": "34.77921869",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "20",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון - הרב טראב יעקב 2-4",
+    "address": "טראב יעקב הרב 2 ",
+    "latitude": "32.0422953",
+    "longitude": "34.77921870",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "pending"
+  },
+  {
+    "shelterName": "הרצל 18",
+    "address": "הרצל 108 ",
+    "latitude": "32.0422954",
+    "longitude": "34.77921871",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "108",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון הבנק הבינלאומי הראשון ",
+    "address": "רוטשילד 38 ",
+    "latitude": "32.0422955",
+    "longitude": "34.77921872",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "38",
+    "status": "approved"
+  },
+  {
+    "shelterName": "ועד הבית -דודו",
+    "address": "טראב יעקב הרב 8 ",
+    "latitude": "32.0422956",
+    "longitude": "34.77921873",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "8",
+    "status": "approved"
+  },
+  {
+    "shelterName": "ספורטק דרום",
+    "address": "שתולים 82",
+    "latitude": "32.0422957",
+    "longitude": "34.77921874",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "82",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון לונדון מיניסטור",
+    "address": "אבן גבירול 30 ",
+    "latitude": "32.0422958",
+    "longitude": "34.77921875",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "30",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון מדיקל סנטר רמת החייל",
+    "address": "הברזל 15 ",
+    "latitude": "32.0422959",
+    "longitude": "34.77921876",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "15",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון הברזל 28",
+    "address": "הברזל 28 ",
+    "latitude": "32.0422960",
+    "longitude": "34.77921877",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "28",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון המסגר 6 ",
+    "address": "המסגר 6 ",
+    "latitude": "32.0422961",
+    "longitude": "34.77921878",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון אסותא",
+    "address": "ז'בוטינסקי 62 ",
+    "latitude": "32.0422962",
+    "longitude": "34.77921879",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "62",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון שרונה מרקט",
+    "address": "מגן קלמן אלוף 3 ",
+    "latitude": "32.0422963",
+    "longitude": "34.77921880",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון קידמת אילון",
+    "address": "קרמניצקי 6 ",
+    "latitude": "32.0422964",
+    "longitude": "34.77921881",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "ארלוזורוב 17",
+    "address": "ארלוזורוב 17 ",
+    "latitude": "32.0422965",
+    "longitude": "34.77921882",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "17",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון ריב\"ל 34",
+    "address": "ריב\"ל 34 ",
+    "latitude": "32.0422966",
+    "longitude": "34.77921883",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "34",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניוני דיזינגוף סנטר",
+    "address": "דיזנגוף 61 ",
+    "latitude": "32.0422967",
+    "longitude": "34.77921884",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "61",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון מוהליבר 18",
+    "address": "מוהליבר 18 ",
+    "latitude": "32.0422968",
+    "longitude": "34.77921885",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "18",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון אלנבי 115",
+    "address": "אלנבי 115 ",
+    "latitude": "32.0422969",
+    "longitude": "34.77921886",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "115",
+    "status": "approved"
+  },
+  {
+    "shelterName": "536",
+    "address": "החבצלת 4 ",
+    "latitude": "32.0422970",
+    "longitude": "34.77921887",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון הברזל",
+    "address": "הברזל 22 ",
+    "latitude": "32.0422971",
+    "longitude": "34.77921888",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "22",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון דה וינצ'י",
+    "address": "קפלן אליעזר 19 ",
+    "latitude": "32.0422972",
+    "longitude": "34.77921889",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "19",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון גבעון",
+    "address": "גבעון 23 ",
+    "latitude": "32.0422973",
+    "longitude": "34.77921890",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "23",
+    "status": "pending"
+  },
+  {
+    "shelterName": "בנין מס' 8 - עתידים - כלל",
+    "address": "2229 3 ",
+    "latitude": "32.0422974",
+    "longitude": "34.77921891",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון ויצמן 14",
+    "address": "ויצמן 14 ",
+    "latitude": "32.0422975",
+    "longitude": "34.77921892",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "14",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מעון ויצו",
+    "address": "דם המכבים 21 ",
+    "latitude": "32.0422976",
+    "longitude": "34.77921893",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "21",
+    "status": "approved"
+  },
+  {
+    "shelterName": "רונימור מגדל ויתניה",
+    "address": "דבורה הנביאה 122 ",
+    "latitude": "32.0422977",
+    "longitude": "34.77921894",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "122",
+    "status": "reject"
+  },
+  {
+    "shelterName": "חניון מגדל בית לסין",
+    "address": "ויצמן 30 ",
+    "latitude": "32.0422978",
+    "longitude": "34.77921895",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "30",
+    "status": "pending"
+  },
+  {
+    "shelterName": "יבנה 38",
+    "address": "יבנה 38 ",
+    "latitude": "32.0422979",
+    "longitude": "34.77921896",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "38",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון וויקס",
+    "address": "2379 2 ",
+    "latitude": "32.0422980",
+    "longitude": "34.77921897",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון מטרופולין",
+    "address": "הרבי מבכרך 4 ",
+    "latitude": "32.0422981",
+    "longitude": "34.77921898",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון אחימאיר",
+    "address": "בן יוסף שלמה 22 ",
+    "latitude": "32.0422982",
+    "longitude": "34.77921899",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "22",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בילינסון 1",
+    "address": "בילינסון 1 ",
+    "latitude": "32.0422983",
+    "longitude": "34.77921900",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "1",
+    "status": "pending"
+  },
+  {
+    "shelterName": "חניון בניין סמל",
+    "address": "בן סרוק 11",
+    "latitude": "32.0422984",
+    "longitude": "34.77921901",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "11",
+    "status": "approved"
+  },
+  {
+    "shelterName": "הלויל סלע (אשדר 2000)",
+    "address": "אלון יגאל 57 ",
+    "latitude": "32.0422985",
+    "longitude": "34.77921902",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "57",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית שרבט / היכל סיטי",
+    "address": "שנקר אריה 3 ",
+    "latitude": "32.0422986",
+    "longitude": "34.77921903",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "3",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "סהרון 16 ",
+    "latitude": "32.0422987",
+    "longitude": "34.77921904",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "16",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "ארליך 2 ",
+    "latitude": "32.0422988",
+    "longitude": "34.77921905",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "2",
+    "status": "pending"
+  },
+  {
+    "shelterName": "928",
+    "address": "הותיקים 6 ",
+    "latitude": "32.0422989",
+    "longitude": "34.77921906",
+    "type": "מקלט ציבורי",
+    "createdByUserId": "1",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "אנקאווא רפאל הרב 2 ",
+    "latitude": "32.0422990",
+    "longitude": "34.77921907",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "בית ספר מגן",
+    "address": "קדש ברנע 4 ",
+    "latitude": "32.0422991",
+    "longitude": "34.77921908",
+    "type": "מקלט ציבורי במוסדות חינוך",
+    "createdByUserId": "2",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מגדל המאה",
+    "address": "אבן גבירול 124 ",
+    "latitude": "32.0422992",
+    "longitude": "34.77921909",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "124",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "חב\"ד 26 ",
+    "latitude": "32.0422993",
+    "longitude": "34.77921910",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "26",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "הכרמל 4 ",
+    "latitude": "32.0422994",
+    "longitude": "34.77921911",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "4",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "בכורי ציון 1 ",
+    "latitude": "32.0422995",
+    "longitude": "34.77921912",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "1",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "שלמה 16 ",
+    "latitude": "32.0422996",
+    "longitude": "34.77921913",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "16",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "ס\"ב 3 ",
+    "latitude": "32.0422997",
+    "longitude": "34.77921914",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "3",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "קבוץ גלויות 89 ",
+    "latitude": "32.0422998",
+    "longitude": "34.77921915",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "89",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מיגונית גני יהושע",
+    "address": "רוקח ישראל 108 ",
+    "latitude": "32.0422999",
+    "longitude": "34.77921916",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "108",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מלון backstage",
+    "address": "בילינסון 6 ",
+    "latitude": "32.0423000",
+    "longitude": "34.77921917",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "6",
+    "status": "approved"
+  },
+  {
+    "shelterName": "האקדמית תל אביב יפו",
+    "address": "רבנו ירוחם 2 ",
+    "latitude": "32.0423001",
+    "longitude": "34.77921918",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "איצטדיון בני יהודה",
+    "address": "כביר 8 ",
+    "latitude": "32.0423002",
+    "longitude": "34.77921919",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "8",
+    "status": "reject"
+  },
+  {
+    "shelterName": "בית יואל",
+    "address": "נמל תל אביב 40 ",
+    "latitude": "32.0423003",
+    "longitude": "34.77921920",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "40",
+    "status": "pending"
+  },
+  {
+    "shelterName": "המרכז לסיינטולוגיה",
+    "address": "ירושלים 39 ",
+    "latitude": "32.0423004",
+    "longitude": "34.77921921",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "39",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מקלט ככר אתרים",
+    "address": "נמיר- אתרים 10",
+    "latitude": "32.0423005",
+    "longitude": "34.77921922",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "10",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "5501 403",
+    "latitude": "32.0423006",
+    "longitude": "34.77921923",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "403",
+    "status": "approved"
+  },
+  {
+    "shelterName": "הבורסה לניירות ערך",
+    "address": "אחוזת בית 2 ",
+    "latitude": "32.0423007",
+    "longitude": "34.77921924",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מקלט בבית הכנסת",
+    "address": "סומקן 11 ",
+    "latitude": "32.0423008",
+    "longitude": "34.77921925",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "11",
+    "status": "pending"
+  },
+  {
+    "shelterName": "משרדי יחידת איכפ''ת",
+    "address": "מזא\"ה 34",
+    "latitude": "32.0423009",
+    "longitude": "34.77921926",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "34",
+    "status": "approved"
+  },
+  {
+    "shelterName": " 2 המיגוניות פיקוד העורף",
+    "address": "בית אל 12 ",
+    "latitude": "32.0423010",
+    "longitude": "34.77921927",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "12",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "רשף 20 ",
+    "latitude": "32.0423011",
+    "longitude": "34.77921928",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "20",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מקלט גני יהושע חמשת החושים",
+    "address": "רוקח ישראל 98 ",
+    "latitude": "32.0423012",
+    "longitude": "34.77921929",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "98",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "תמוז 20 ",
+    "latitude": "32.0423013",
+    "longitude": "34.77921930",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "20",
+    "status": "pending"
+  },
+  {
+    "shelterName": "שופרסל ארלוזורוב",
+    "address": "ארלוזורוב 55 ",
+    "latitude": "32.0423014",
+    "longitude": "34.77921931",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "55",
+    "status": "approved"
+  },
+  {
+    "shelterName": "חניון דה וינצ'י",
+    "address": "דה וינצ'י לאונרדו 2 ",
+    "latitude": "32.0423015",
+    "longitude": "34.77921932",
+    "type": "חניון מחסה לציבור",
+    "createdByUserId": "4",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מקלט מסעדת רשל",
+    "address": "ליפקין שחק- שטח הנמל 27 ",
+    "latitude": "32.0423016",
+    "longitude": "34.77921933",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "27",
+    "status": "approved"
+  },
+  {
+    "shelterName": "הכלביה העירונית",
+    "address": "אבן גבירול 214א",
+    "latitude": "32.0423017",
+    "longitude": "34.77921934",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "214",
+    "status": "reject"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "מח\"ל 26 ",
+    "latitude": "32.0423018",
+    "longitude": "34.77921935",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "26",
+    "status": "pending"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "3404 7",
+    "latitude": "32.0423019",
+    "longitude": "34.77921936",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "7",
+    "status": "approved"
+  },
+  {
+    "shelterName": "ממ''ד משרדי גני יהושע",
+    "address": "רוקח ישראל 90א",
+    "latitude": "32.0423020",
+    "longitude": "34.77921937",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "90",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "תשרי 85 ",
+    "latitude": "32.0423021",
+    "longitude": "34.77921938",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "85",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "הרב עובדיה בידאני 17 ",
+    "latitude": "32.0423022",
+    "longitude": "34.77921939",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "17",
+    "status": "reject"
+  },
+  {
+    "shelterName": "האקדמית תל אביב יפו",
+    "address": "עזה 15 ",
+    "latitude": "32.0423023",
+    "longitude": "34.77921940",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "15",
+    "status": "pending"
+  },
+  {
+    "shelterName": "האנגר 11",
+    "address": "יריד המזרח 9 ",
+    "latitude": "32.0423024",
+    "longitude": "34.77921941",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "9",
+    "status": "approved"
+  },
+  {
+    "shelterName": "התחיה 14 - אזור תעשיה",
+    "address": "התחיה 14 ",
+    "latitude": "32.0423025",
+    "longitude": "34.77921942",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "14",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מקלט be all",
+    "address": "טיומקין 2 ",
+    "latitude": "32.0423026",
+    "longitude": "34.77921943",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "2",
+    "status": "approved"
+  },
+  {
+    "shelterName": "מיגונית פיקוד העורף",
+    "address": "ירושלים 210א",
+    "latitude": "32.0423027",
+    "longitude": "34.77921944",
+    "type": "אחר",
+    "createdByUserId": "6",
+    "likesCount": "210",
+    "status": "reject"
+  }
+]
